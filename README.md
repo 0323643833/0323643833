@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0323643833
+- 👋 Hi, I’m Rkf
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning TDD,Typescript
 - 💞️ I’m looking to collaborate on Javascript Project
